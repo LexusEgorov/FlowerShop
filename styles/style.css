@@ -26,8 +26,6 @@ html{
     align-items: center;
     margin-top: 40px;
     position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
     z-index: 50;
 }
 
