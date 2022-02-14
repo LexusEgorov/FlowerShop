@@ -325,6 +325,8 @@ main{
     width: 217px;
     display: flex;
     flex-direction: column;
+    text-decoration: none;
+    color: #000;
 }
 
 .featured-item a img{
