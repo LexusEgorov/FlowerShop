@@ -321,13 +321,13 @@ main{
     justify-content: space-between;
 }
 
-.featured-item{
+.featured-item a{
     width: 217px;
     display: flex;
     flex-direction: column;
 }
 
-.featured-item img{
+.featured-item a img{
     order: -1;
     margin-bottom: 16px; 
 }
@@ -339,7 +339,7 @@ main{
     transform: translate(120px, -140px) rotate(90deg);
 }
 
-.featured-item h3{
+.featured-item a h3{
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
@@ -349,7 +349,7 @@ main{
     text-align: center;
 }
 
-.featured-item p{
+.featured-item a p{
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
